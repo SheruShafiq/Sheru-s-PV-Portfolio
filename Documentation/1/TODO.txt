@@ -1,4 +1,0 @@
-1.4: need to do the security module from Jarvis(probably)
-1.6: add hours to user stories (hehe)
-Unfuck Kick off document
-

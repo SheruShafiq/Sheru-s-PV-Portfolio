@@ -1,2 +1,0 @@
-J: Sherpaan Monitor App
-S: Learn tests! (JARVIS)
