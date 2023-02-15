@@ -9,7 +9,17 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <>
   
-  <Canvas>
+  <Canvas
+  orthographic
+  camera={
+    {
+      zoom: 100,
+    fov:80,
+    near: 0.1,
+    far: 1000,
+    position: [0, 0, 5]
+    }
+  }>
     <App />
   </Canvas>
 
