@@ -8,3 +8,14 @@ body,
     bottom: 0;
 overflow: hidden;
 }
+
+.SBall{
+  font-family: Helvetica, Arial;
+  position: absolute;
+  background: #00000088;
+  color: white;
+  padding: 30px;
+  white-space: nowrap;
+  border-radius: 3px;
+  user-select: none;
+}

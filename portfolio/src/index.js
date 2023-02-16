@@ -5,9 +5,11 @@ import reportWebVitals from './reportWebVitals';
 import { Canvas  } from '@react-three/fiber';
 import './style.css'
 import App from './App';
+import { StrictMode } from 'react';
+
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <>
+  <StrictMode>
   
   <Canvas
 
@@ -24,7 +26,7 @@ root.render(
     <App />
   </Canvas>
 
-  </>
+  </StrictMode>
 );
 
 reportWebVitals();
