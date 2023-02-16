@@ -10,10 +10,11 @@ root.render(
   <>
   
   <Canvas
-  orthographic
+
+
   camera={
     {
-      zoom: 100,
+      
     fov:80,
     near: 0.1,
     far: 1000,

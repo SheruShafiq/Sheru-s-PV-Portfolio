@@ -19,7 +19,7 @@ function App() {
   return (
     <>
      <orbitControls args={ [ camera, gl.domElement ] } />
-  <directionalLight position={[10, 2, 0]} intensity={1.5} />   
+  <directionalLight position={[0, 1, 0]} intensity={2} />   
 <ambientLight intensity={0.2} />
 
 
