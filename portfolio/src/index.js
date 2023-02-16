@@ -13,7 +13,7 @@ root.render(
   
   <Canvas
 
-
+shadows={true}
   camera={
     {
       
