@@ -54,7 +54,7 @@ const controls = useControls({
     blend={ 200 }
 >
     <RandomizedLight
-        amount={ 8 }
+        amount={ 1 }
         radius={ 1 }
         ambient={ 0.5 }
         intensity={ 1 }
